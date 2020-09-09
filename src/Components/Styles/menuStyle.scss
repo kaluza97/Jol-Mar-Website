@@ -1,0 +1,23 @@
+.menu {
+  display: flex;
+  justify-content: space-around;
+  background-color: #924a47f3;
+  height: 100px;
+}
+
+.menuBlock {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 45px;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.menuBlock:hover {
+  cursor: pointer;
+  color: #ffffff;
+}
+
+.isActive {
+  border-bottom: 10px solid;
+  border-bottom-color: #deb5b5;
+}

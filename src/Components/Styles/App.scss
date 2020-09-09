@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #924a47f3;
+}
+
+a:link,
+a:visited,
+a:hover,
+a.active {
+  text-decoration: none;
+  color: inherit;
+  outline: none;
+}
