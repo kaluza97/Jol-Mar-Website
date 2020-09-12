@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Jol-Mar-Website/static/css/main.bf09998d.chunk.css",
+    "main.js": "/Jol-Mar-Website/static/js/main.1805c087.chunk.js",
+    "main.js.map": "/Jol-Mar-Website/static/js/main.1805c087.chunk.js.map",
+    "runtime-main.js": "/Jol-Mar-Website/static/js/runtime-main.7b279b21.js",
+    "runtime-main.js.map": "/Jol-Mar-Website/static/js/runtime-main.7b279b21.js.map",
+    "static/css/2.c997a826.chunk.css": "/Jol-Mar-Website/static/css/2.c997a826.chunk.css",
+    "static/js/2.f978a621.chunk.js": "/Jol-Mar-Website/static/js/2.f978a621.chunk.js",
+    "static/js/2.f978a621.chunk.js.map": "/Jol-Mar-Website/static/js/2.f978a621.chunk.js.map",
+    "index.html": "/Jol-Mar-Website/index.html",
+    "precache-manifest.31098e8b0dcd9a46d36a555b12122674.js": "/Jol-Mar-Website/precache-manifest.31098e8b0dcd9a46d36a555b12122674.js",
+    "service-worker.js": "/Jol-Mar-Website/service-worker.js",
+    "static/css/2.c997a826.chunk.css.map": "/Jol-Mar-Website/static/css/2.c997a826.chunk.css.map",
+    "static/css/main.bf09998d.chunk.css.map": "/Jol-Mar-Website/static/css/main.bf09998d.chunk.css.map",
+    "static/js/2.f978a621.chunk.js.LICENSE.txt": "/Jol-Mar-Website/static/js/2.f978a621.chunk.js.LICENSE.txt",
+    "static/media/slider.scss": "/Jol-Mar-Website/static/media/4.fdd9364d.jpg",
+    "static/media/mainPage.scss": "/Jol-Mar-Website/static/media/wardrobe.c220ed45.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b279b21.js",
+    "static/css/2.c997a826.chunk.css",
+    "static/js/2.f978a621.chunk.js",
+    "static/css/main.bf09998d.chunk.css",
+    "static/js/main.1805c087.chunk.js"
+  ]
+}
