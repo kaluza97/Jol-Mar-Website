@@ -7,7 +7,7 @@
 .callUs {
   z-index: 10;
   position: absolute;
-  top: 130px;
+  top: 30px;
   right: 30px;
   background: #924a47;
   border-radius: 50%;
@@ -38,6 +38,12 @@
 .callUs:hover {
   cursor: pointer;
   animation: pulse 1s infinite;
+}
+
+.mainPage {
+  max-width: 100%;
+  overflow: hidden;
+  position: relative;
 }
 
 .phone {
@@ -116,12 +122,12 @@
 }
 
 .section {
-  position: block;
-  height: 1300px;
+  z-index: 1000;
+  height: 1240px;
   width: 100%;
-
+  display: flex;
+  flex-direction: column;
   background-color: #924a47f3;
-  overflow: hidden;
 }
 
 .clipArt {
@@ -171,6 +177,7 @@
   box-shadow: 7px 7px 5px rgba(0, 0, 0, 0.5);
   z-index: 10;
   opacity: 0.9;
+  overflow: hidden;
 }
 
 #item1 {
@@ -217,11 +224,11 @@
 .sectionButton {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
   margin-left: calc(50% - 200px);
-  margin-top: 30px;
+  margin-top: 10px;
   border: 4px solid #884141;
-  border-radius: 112px;
+  border-radius: 15px;
   width: 400px;
-  height: 120px;
+  height: 110px;
   background-color: #a05c5c;
   cursor: pointer;
 }

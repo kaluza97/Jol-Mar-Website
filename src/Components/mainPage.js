@@ -1,14 +1,14 @@
 import React from "react";
 import "./Styles/mainPage.scss";
-// import Aos from "aos";
-// import "aos/dist/aos.css";
-// import { useEffect } from "react";
-import Carousel from "./Carousel";
+import Aos from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from "react";
+import Slideshow from "./Slideshow";
 
 const MainPage = () => {
-  // useEffect(() => {
-  //   Aos.init({ duration: 500 });
-  // }, []);
+  useEffect(() => {
+    Aos.init({ duration: 500 });
+  }, []);
   return (
     <>
       <div className="mainPage">
@@ -17,7 +17,7 @@ const MainPage = () => {
         </a>
 
         <header className="header">
-          {/* <div className="translate"></div> */}
+          <div className="translate"></div>
           <div className="callUs">
             <div className="phone"></div>
           </div>
@@ -71,7 +71,7 @@ const MainPage = () => {
             <p className="sectionButtonText">Przejdź do oferty</p>
           </button>
         </section>
-        <Carousel></Carousel>
+        <Slideshow></Slideshow>
       </div>
     </>
   );
